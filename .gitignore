@@ -1,0 +1,16 @@
+# Python build/cache files (created automatically when code runs)
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets (none needed for this project, but just in case)
+.env
+
+# Editor and Mac system files
+.idea/
+.vscode/
+.DS_Store
